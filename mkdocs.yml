@@ -3,7 +3,7 @@ docs_dir: docs/
 copyright: Copyright &copy; ananda11k@gmail.com
 site_author: AWS
 site_url: https://anandakumarpalanisamy.github.io/documentation-site/
-repo_name: dpcumentation-site
+repo_name: documentation-site
 repo_url: https://github.com/anandakumarpalanisamy/documentation-site
 
 theme:
